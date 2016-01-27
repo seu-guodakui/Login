@@ -18,6 +18,8 @@ public class LoginServlet extends HttpServlet {
 	 */
 	public LoginServlet() {
 		super();
+		int j=1;
+		int i=j+1;
 	}
 
 	/**
