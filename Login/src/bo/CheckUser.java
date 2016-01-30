@@ -10,6 +10,8 @@ public class CheckUser {
 		
 		int i =1;
 		int j = i;
+		
+		int k=j+i;//branch x
 		return flag;
 		
 	}
