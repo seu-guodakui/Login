@@ -11,7 +11,8 @@ public class CheckUser {
 		int i =1;
 		int j = i;
 		
-		int k=j+i;//branch x
+		
+		int ooo;
 		return flag;
 		
 	}
